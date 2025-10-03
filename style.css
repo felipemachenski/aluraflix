@@ -1,12 +1,12 @@
 body {
-background-color: #bf3cbf;
+background-color: #7c2e7c;
 color: white;
 margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(253, 180, 223);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(253, 180, 223);
 }
